@@ -24,6 +24,9 @@ after revision
     cp <PATH>/simple_nn/features/symmetry_function/symmetry_function.h <PATH>/lammps/src/
 
 
-2. SIMPLE-NN test fail
+2. Run setup.py  
+check #115. (recommend setting up the SIMPLE_NN repository within a Conda virtual environment.)  
 
-editing
+4. SIMPLE-NN test fail
+
+editing..
